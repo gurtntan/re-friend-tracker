@@ -40,6 +40,7 @@ export class ExampleTranslationService extends TranslationService {
             "LocationName" : "Location Name",
             "Name" : "Name",
             "NewActivity" : "New Activity",
+            "ActivityName" : "Activity Name",
             "NewFriend" : "New Friend",
             "NewGroup" : "New Group",
             "NewLocation" : "New Location",
